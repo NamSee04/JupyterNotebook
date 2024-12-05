@@ -1,1 +1,1 @@
-# DemoSTDXL
+# JupiterNotebook
